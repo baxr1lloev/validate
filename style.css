@@ -5,7 +5,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Arima:wght@100;200;300&display=swap');
 }
 
-body{
+/* body{
     perspective: 1000px;
 }
 
@@ -127,7 +127,7 @@ body{
     to{
         transform: scale(1) rotateY(0); 
     }
-}
+} */
 
 
 form{
